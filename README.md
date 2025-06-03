@@ -17,4 +17,4 @@ Minimal Screen is intentionally limited — to keep you in control, not your pho
 
 Example:
 
-![example](https://github.com/user-attachments/assets/4c835b2e-eebe-4af8-8044-206a8624b160)
+<img src="https://github.com/user-attachments/assets/4c835b2e-eebe-4af8-8044-206a8624b160" width="25%">
